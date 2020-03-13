@@ -19,7 +19,7 @@ To run the demo:
 
 
 
-Note: The codes were modified from the implementation of "Unsupervised Cross-modal Retrieval through Adversarial Learning", written by <a href="https://www.linkedin.com/in/ritsu1228/">Li He</a>. If you use the codes, please cite the following two papers: 
+Note: The codes were modified from the implementation of "Unsupervised Cross-modal Retrieval through Adversarial Learning", written by <a href="https://www.linkedin.com/in/ritsu1228/">Li He</a>. The code is largely based on [this repo](https://github.com/sunpeng981712364/ACMR_demo). If you use the codes, please cite the following two papers: 
 
 [1]  Li He, Xing Xu, Huimin Lu, Yang Yang, Fumin Shen and Heng Tao Shen.  "Unsupervised Cross-modal Retrieval through Adversarial Learning". IEEE International Conference on Multimedia and Expo (ICME), 2017. 
 
